@@ -9,9 +9,10 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - Git workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ## python
-- Obiektowe: https://www.learnpython.org/en/Classes_and_Objects
+- Obiektowo: https://www.learnpython.org/en/Classes_and_Objects
 - Styl: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
 - Darmowa książka: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
+- Kurs (ksiązka?): https://pymbook.readthedocs.io/en/latest/
 
 
 ## backend:
