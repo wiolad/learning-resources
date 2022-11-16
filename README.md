@@ -26,4 +26,4 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - LeetCode: https://leetcode.com/
 - HackerRank: https://www.hackerrank.com/skills-verification/python_basic
 - TestGorilla: https://www.testgorilla.com/
-
+- https://medium.com/@supreetdeshpande95/how-to-ace-your-first-hackathon-tutorial-in-python-e40b3d0204e8
