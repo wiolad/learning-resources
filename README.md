@@ -10,7 +10,8 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 
 ## python
 - Obiektowe: https://www.learnpython.org/en/Classes_and_Objects
-- style: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
+- Styl: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
+- Darmowa książka: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
 
 
 ## backend:
