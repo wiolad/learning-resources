@@ -23,7 +23,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 - https://www.pythonforbeginners.com/api/list-of-python-apis
 
-## Ćwiczenia
+## ćwiczenia
 - LeetCode: https://leetcode.com/
 - HackerRank: https://www.hackerrank.com/skills-verification/python_basic
 - TestGorilla: https://www.testgorilla.com/
