@@ -9,6 +9,8 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - Git workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ## python
+- Obiektowe: https://www.learnpython.org/en/Classes_and_Objects
+- style: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
 
 
 ## backend:
@@ -18,3 +20,9 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - https://rapidapi.com/collection/list-of-free-apis
 - https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 - https://www.pythonforbeginners.com/api/list-of-python-apis
+
+## Ćwiczenia
+- LeetCode: https://leetcode.com/
+- HackerRank: https://www.hackerrank.com/skills-verification/python_basic
+- TestGorilla: https://www.testgorilla.com/
+
