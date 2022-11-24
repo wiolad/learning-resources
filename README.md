@@ -11,7 +11,8 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 ## python
 - Obiektowo: https://www.learnpython.org/en/Classes_and_Objects
 - Styl: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
-- Darmowa książka: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
+- Darmowa książka PL: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
+- Darmowa książka EN: https://diveintopython3.problemsolving.io/
 - Kurs (ksiązka?): https://pymbook.readthedocs.io/en/latest/
 
 
