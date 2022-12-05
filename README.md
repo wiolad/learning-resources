@@ -28,7 +28,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 
 ## SQL
-https://www.sqlpedia.pl/logiczne-przetwarzanie-zapytan-sql/
+- https://www.sqlpedia.pl/logiczne-przetwarzanie-zapytan-sql/
 
 ## ćwiczenia
 - LeetCode: https://leetcode.com/
