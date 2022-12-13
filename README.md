@@ -36,4 +36,6 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - TestGorilla: https://www.testgorilla.com/
 - https://medium.com/@supreetdeshpande95/how-to-ace-your-first-hackathon-tutorial-in-python-e40b3d0204e8
 
-## Programy stażowe
+## Programy stażowe/mentoringowe
+- https://www.incopolska.org/inco-academy?lang=pl
+- http://www.itforshe.pl/en/
