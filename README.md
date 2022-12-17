@@ -27,6 +27,9 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 ## Data Science
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 
+## Django
+- Generic Relations: https://simpleisbetterthancomplex.com/tutorial/2016/10/13/how-to-use-generic-relations.html
+
 ## SQL
 - https://www.sqlpedia.pl/logiczne-przetwarzanie-zapytan-sql/
 
