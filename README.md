@@ -26,6 +26,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 
 ## Data Science
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+- https://www.datasciencelearner.com/matplotlib-tutorial-complete-guide-to-use-matplotlib-with-python/
 
 ## Django
 - Generic Relations: https://simpleisbetterthancomplex.com/tutorial/2016/10/13/how-to-use-generic-relations.html
