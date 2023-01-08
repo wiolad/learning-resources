@@ -34,7 +34,8 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 ## SQL
 - https://www.sqlpedia.pl/logiczne-przetwarzanie-zapytan-sql/
 
-## ćwiczenia
+## Ćwiczenia i zasoby
+- https://medium.com/codex/4-github-repos-that-will-help-every-beginner-programmer-bc5c1417da05
 - LeetCode: https://leetcode.com/
 - HackerRank: https://www.hackerrank.com/skills-verification/python_basic
 - TestGorilla: https://www.testgorilla.com/
