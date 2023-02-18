@@ -14,6 +14,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - Darmowa książka PL: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
 - Darmowa książka EN: https://diveintopython3.problemsolving.io/
 - Kurs (ksiązka?): https://pymbook.readthedocs.io/en/latest/
+- Wyrażenia regularne: https://www.python-engineer.com/posts/regular-expressions/
 
 
 ## backend:
