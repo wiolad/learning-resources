@@ -46,3 +46,5 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 ## Programy stażowe/mentoringowe
 - https://www.incopolska.org/inco-academy?lang=pl
 - http://www.itforshe.pl/en/
+- https://akademy.mamopracuj.pl/
+- https://www.dareit.io/mentoring
