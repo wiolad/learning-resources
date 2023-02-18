@@ -18,6 +18,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 
 ## backend:
 - Spacjalizacja Coursera: https://www.coursera.org/professional-certificates/meta-back-end-developer#enroll
+- Cloud hosting: https://www.pythonanywhere.com/
 
 ## API
 - https://rapidapi.com/collection/list-of-free-apis
