@@ -11,10 +11,11 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 ## python
 - Obiektowo: https://www.learnpython.org/en/Classes_and_Objects
 - Styl: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
-- Darmowa książka PL: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
-- Darmowa książka EN: https://diveintopython3.problemsolving.io/
-- Kurs (ksiązka?): https://pymbook.readthedocs.io/en/latest/
+- Python na luzie, książka PL: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
+- Divie into Python 3 książka EN: https://diveintopython3.problemsolving.io/
+- Python for you and me (książka, kurs) EN: https://pymbook.readthedocs.io/en/latest/
 - Wyrażenia regularne: https://www.python-engineer.com/posts/regular-expressions/
+- Książki i blok by Al Sweigart: https://inventwithpython.com/
 
 
 ## backend:
