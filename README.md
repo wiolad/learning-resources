@@ -1,14 +1,14 @@
 # learning-resources
 Wszystkie materiały i linki których nie chciałabym zgubić
 
-## git
+## Git
 - Kurs na Udemy: https://www.udemy.com/course/git-od-podstaw-dla-kazdego/
 - Podręcznik: https://git-scm.com/book/pl/v2
 - Git wizualnie: https://dev.to/progressiveprogrammer/learn-git-visually-best-way-to-learn-git-4ec3
 - Jak pisać commity: https://www.conventionalcommits.org/en/v1.0.0/
 - Git workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
-## python
+## Python
 - Obiektowo: https://www.learnpython.org/en/Classes_and_Objects
 - Styl: http://www.cs.cornell.edu/courses/cs1110/2020fa/resources/style/
 - Python na luzie, książka PL: https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html
@@ -18,7 +18,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - Książki i blok by Al Sweigart: https://inventwithpython.com/
 
 
-## backend:
+## Backend:
 - Spacjalizacja Coursera: https://www.coursera.org/professional-certificates/meta-back-end-developer#enroll
 - Cloud hosting: https://www.pythonanywhere.com/
 
