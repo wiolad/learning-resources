@@ -16,6 +16,7 @@ Wszystkie materiały i linki których nie chciałabym zgubić
 - Python for you and me (książka, kurs) EN: https://pymbook.readthedocs.io/en/latest/
 - Wyrażenia regularne: https://www.python-engineer.com/posts/regular-expressions/
 - Książki i blok by Al Sweigart: https://inventwithpython.com/
+- Zaaeansowany Python: https://www.fluentpython.com/
 
 
 ## Backend:
